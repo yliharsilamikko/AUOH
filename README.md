@@ -1,3 +1,5 @@
 # Automaation ohjelmistosuunnittelu -kurssi
 
-Johdantovideo
+
+## Johdanto-video
+https://youtu.be/NKvIOMie-4A
