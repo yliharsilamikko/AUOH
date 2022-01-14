@@ -1,1 +1,3 @@
-# AUOH
+# Automaation ohjelmistosuunnittelu -kurssi
+
+Johdantovideo
