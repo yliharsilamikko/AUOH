@@ -35,9 +35,10 @@ Extra:
 
 ## 3) Palautus
 
-- Lähetä sähköpostilla opettajalle rajapinnan url (qwerty.heroku.com tms..), sekä dokumentaatio kuinka rajapintaa käytettään
+- Lähetä sähköpostilla opettajalle rajapinnan url (qwerty.heroku.com tms..), sekä dokumentaatio kuinka rajapintaa käytetään
 - Lähetä github-linkki, josta löytyy koodi
 - Vaihtoehtoisesti koodin voi palauttaa zip-pakettina spostin mukana
+- Palautus 30.4 mennessä!
 
 
 
