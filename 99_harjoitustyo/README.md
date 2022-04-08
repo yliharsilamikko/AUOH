@@ -1,6 +1,6 @@
 # Harjoitustyö
   
-## Toteuta koneistustietokanta REST-rajapinnalla
+## 1) Toteuta koneistustietokanta REST-rajapinnalla
   
 Toteuta CRUD operaatiot:
   
@@ -28,3 +28,18 @@ Machining parameter set
   
 Extra:
 - Lisää websocket yhteys, joka ilmoittaa jos jotain tietoja on muutettu
+
+
+## 2) Julkaise palvelu herokuun
+
+
+
+## 3) Palautus
+
+Lähetä sähköpostilla opettajalle rajapinnan url (qwerty.heroku.com tms..),  
+sekä dokumentaatio kuinka rajapintaa käytettän.
+
+
+
+
+
