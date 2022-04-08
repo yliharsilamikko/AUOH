@@ -33,11 +33,12 @@ Extra:
 ## 2) Julkaise palvelu herokuun
 
 
-
 ## 3) Palautus
 
-Lähetä sähköpostilla opettajalle rajapinnan url (qwerty.heroku.com tms..),  
-sekä dokumentaatio kuinka rajapintaa käytettän.
+- Lähetä sähköpostilla opettajalle rajapinnan url (qwerty.heroku.com tms..), sekä dokumentaatio kuinka rajapintaa käytettään
+- Lähetä github-linkki, josta löytyy koodi
+- Vaihtoehtoisesti koodin voi palauttaa zip-pakettina spostin mukana
+
 
 
 
