@@ -40,8 +40,4 @@ Extra:
 - Vaihtoehtoisesti koodin voi palauttaa zip-pakettina spostin mukana
 - Palautus 30.4 mennessä!
 
-
-
-
-
-
+## 4) Voit myös toteuttaa oman aiheen, jossa hyödynnetään WebSocket/REST -tekniikkaa.
